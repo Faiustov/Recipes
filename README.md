@@ -1,8 +1,8 @@
 # Рецепты
 
-[Брауни](brownie.md)
-[Банановый хлеб](bananabrot.md)
-[Тыква с мёдом](tikvasmedom.md)
+-[Брауни](brownie.md)
+-[Банановый хлеб](bananabrot.md)
+-[Тыква с мёдом](tikvasmedom.md)
 - Банановые панкейки
 - Картофель «Айдахо»
 
